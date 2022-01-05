@@ -28,3 +28,6 @@ Combine the New Background Roi and foreground Roi (cv.bitwize_or(NewBackground, 
 
 # Output 
 https://user-images.githubusercontent.com/83566027/148193190-486b4ed9-3031-4d69-a251-6797c0293242.mp4
+![image](https://user-images.githubusercontent.com/83566027/148195931-b5f047f5-e71c-4136-925b-44c002749cab.png)
+![image](https://user-images.githubusercontent.com/83566027/148196275-3274d443-0bb2-43b9-89e8-be68c5036687.png)
+
